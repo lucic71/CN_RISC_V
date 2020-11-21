@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/VivadoProjects/RISC_V/RISC_V.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/ID.v,1605529191,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/IF.v,,ID,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/IF.v,1605531235,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/IF_ID_REG.v,,IF,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/IF_ID_REG.v,1605531978,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/PC.v,,IF_ID_REG,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/PC.v,1605531852,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/RISC_V_IF_ID.v,,PC,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/RISC_V_IF_ID.v,1605529967,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/adder.v,,RISC_V_IF_ID,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/RISC_V_IF_ID_TB.v,1605531978,verilog,,,,RISC_V_IF_ID_TB,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/adder.v,1605530932,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/imm_gen.v,,adder,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/imm_gen.v,1605383352,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/instruction_memory.v,,imm_gen,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/instruction_memory.v,1605475140,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/mux2_1.v,,instruction_memory,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/mux2_1.v,1605535170,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/registers.v,,mux2_1,,,,,,,,
+D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/registers.v,1605532387,verilog,,D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/RISC_V_IF_ID_TB.v,,registers,,,,,,,,
