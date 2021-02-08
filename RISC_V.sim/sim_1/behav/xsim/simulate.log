@@ -1,4 +1,0 @@
-Vivado Simulator 2018.3
-Time resolution is 1 ps
-WARNING: Too many words specified in data file code.mem
-$finish called at time : 210 ns : File "D:/VivadoProjects/RISC_V/RISC_V.srcs/sources_1/new/RISC_V_IF_ID_TB.v" Line 55
